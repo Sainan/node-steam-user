@@ -7,19 +7,14 @@
 		"steam client",
 		"steam user"
 	],
-	"homepage": "https://github.com/DoctorMcKay/node-steam-user",
+	"homepage": "https://github.com/Sainan/node-steam-user",
 	"bugs": {
-		"url": "https://github.com/DoctorMcKay/node-steam-user/issues"
+		"url": "https://github.com/Sainan/node-steam-user/issues"
 	},
 	"license": "MIT",
-	"author": {
-		"name": "Alex Corn",
-		"email": "mckay@doctormckay.com",
-		"url": "https://www.doctormckay.com"
-	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DoctorMcKay/node-steam-user.git"
+		"url": "https://github.com/Sainan/node-steam-user.git"
 	},
 	"main": "index.js",
 	"files": [
