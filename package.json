@@ -14,7 +14,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Sainan/node-steam-user.git"
+		"url": "git+https://github.com/Sainan/node-steam-user.git"
 	},
 	"main": "index.js",
 	"files": [
