@@ -1,6 +1,6 @@
 const HTTP = require('http');
 const Socket = require('net').Socket;
-const SteamCrypto = require('@doctormckay/steam-crypto');
+const SteamCrypto = require('./steam-crypto.js');
 const {URL} = require('url');
 
 const BaseConnection = require('./base.js');

@@ -1,6 +1,6 @@
 const FS = require('fs');
 const StdLib = require('@doctormckay/stdlib');
-const SteamCrypto = require('@doctormckay/steam-crypto');
+const SteamCrypto = require('./steam-crypto.js');
 
 const Helpers = require('./helpers.js');
 const ContentManifest = require('./content_manifest.js');

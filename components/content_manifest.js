@@ -1,5 +1,5 @@
 const ByteBuffer = require('bytebuffer');
-const SteamCrypto = require('@doctormckay/steam-crypto');
+const SteamCrypto = require('./steam-crypto.js');
 
 const SteamUserMessages = require('./03-messages.js');
 const Schema = require('../protobufs/generated/_load.js');

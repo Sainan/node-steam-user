@@ -1,7 +1,7 @@
 const ByteBuffer = require('bytebuffer');
 const {SocksProxyAgent} = require('socks-proxy-agent');
 const StdLib = require('@doctormckay/stdlib');
-const SteamCrypto = require('@doctormckay/steam-crypto');
+const SteamCrypto = require('./steam-crypto.js');
 
 const EMsg = require('../enums/EMsg.js');
 const EResult = require('../enums/EResult.js');
